@@ -8,7 +8,7 @@ public:
             int l=i+1,r=n-1;
             while(l<r){
                 int cursum=nums[i]+nums[l]+nums[r];
-                if(abs(ans-target)>abs(cursum-target)) ans=cursum;
+                if(abs(target-ans)>abs(target-cursum)) ans=cursum;
                 if(cursum==target) break;
                 else if(cursum>target) r--;
                 else l++;
