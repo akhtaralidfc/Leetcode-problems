@@ -4,7 +4,7 @@ public:
         int i=0,st=0,n=nums.size();
         int ans=0,tem=0,odd=0;
         for(int i=0;i<n;i++){
-            if(nums[i]%2!=0){
+            if(nums[i]%2==1){
                 odd++;
                 if(odd>=k){
                     tem=1;
@@ -13,7 +13,7 @@ public:
                         st++;
                     }
                     st++;
-                    cout<<st<<" ";
+                    // cout<<st<<" ";
                     ans+=tem;
                 }
             }else{
