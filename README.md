@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1293-three-consecutive-odds](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2645-pass-the-pillow) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
