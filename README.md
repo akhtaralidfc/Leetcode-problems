@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
