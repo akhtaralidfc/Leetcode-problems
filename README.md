@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2846-robot-collisions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
 ## Binary Search
