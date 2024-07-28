@@ -47,6 +47,16 @@ public:
                 }
             }
         }
-        return dis[n-1].top();
+        int ans=dis[n-1].top();
+        // for(int i=0;i<dis.size();i++){
+        //     priority_queue<int> it=dis[0];
+        //     cout<<i+1<<":";
+        //     while(!it.empty()){
+        //         cout<<it.top()<<" ";
+        //         it.pop();
+        //     }
+        //     cout<<endl;
+        // }
+        return ans;
     }
 };
