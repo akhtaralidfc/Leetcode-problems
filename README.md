@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -161,14 +162,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
