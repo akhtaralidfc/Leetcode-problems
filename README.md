@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2645-pass-the-pillow) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1205-defanging-an-ip-address](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
