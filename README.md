@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0016-3sum-closest) |
+| [0040-combination-sum-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0870-magic-squares-in-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
