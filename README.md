@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
