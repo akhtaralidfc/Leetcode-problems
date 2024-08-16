@@ -1,11 +1,17 @@
 class Solution {
 public:
     int maxDistance(vector<vector<int>>& arrays) {
-        int maxDif = 0, curMin = 10000, curMax = -10000;
-        for (auto& a : arrays) {
-            maxDif = max(maxDif, max(a.back()-curMin, curMax-a.front()));
-            curMin = min(curMin, a.front()), curMax = max(curMax, a.back());
+        int minVal=arrays[0][0];
+        int maxVal=arrays[0].back();
+        int maxD=0;
+        for(int i=1;i<arrays.size();i++){
+            int curMin=arrays[i][0];
+            int curMax=arrays[i].back();
+            maxD=max(maxD,abs(curMax-minVal));
+            maxD=max(maxD,abs(maxVal-curMin));
+            minVal=min(minVal,curMin);
+            maxVal=max(maxVal,curMax);
         }
-        return maxDif;
+        return maxD;
     }
 };
