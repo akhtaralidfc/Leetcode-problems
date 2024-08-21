@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [2846-robot-collisions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2846-robot-collisions) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## String
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Shortest Path
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0040-combination-sum-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 <!---LeetCode Topics End-->
