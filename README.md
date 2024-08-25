@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
 |  |
 | ------- |
