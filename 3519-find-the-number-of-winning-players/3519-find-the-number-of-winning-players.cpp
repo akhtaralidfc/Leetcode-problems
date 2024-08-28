@@ -4,6 +4,7 @@ public:
         unordered_map<int,vector<int>> m;
         unordered_map<int, int> m2;
         unordered_set<int> st;
+        // unordered_set<int> st2;
         for(int i = 0; i < pick.size(); i++) {
             m[pick[i][0]].push_back(pick[i][1]);
         }
@@ -21,7 +22,6 @@ public:
             }
             m2.clear();
         }
-
         return st.size();
     }
 };
