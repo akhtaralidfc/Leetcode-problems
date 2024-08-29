@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
