@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
