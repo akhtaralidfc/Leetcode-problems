@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1205-defanging-an-ip-address](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
