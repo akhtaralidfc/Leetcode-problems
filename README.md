@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0787-sliding-puzzle](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0787-sliding-puzzle](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0906-walking-robot-simulation) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
