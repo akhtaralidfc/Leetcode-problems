@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Graph
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2737-row-with-maximum-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2803-modify-graph-edge-weights) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -373,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
