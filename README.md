@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2406-decode-the-message](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Shortest Path
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Number Theory
 |  |
