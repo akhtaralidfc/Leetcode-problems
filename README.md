@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1972-rotating-the-box) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Greedy
