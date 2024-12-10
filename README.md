@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2406-decode-the-message](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Binary Search
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Greedy
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [1755-defuse-the-bomb](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Recursion
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3519-find-the-number-of-winning-players) |
 ## Dynamic Programming
