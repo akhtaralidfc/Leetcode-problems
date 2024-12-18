@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0870-magic-squares-in-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -470,5 +472,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
