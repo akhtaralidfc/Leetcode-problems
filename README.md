@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
