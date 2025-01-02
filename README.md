@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2737-row-with-maximum-ones) |
 | [2846-robot-collisions](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2846-robot-collisions) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2406-decode-the-message](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2727-number-of-senior-citizens) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Number Theory
 |  |
 | ------- |
