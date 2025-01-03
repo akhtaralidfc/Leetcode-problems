@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0179-largest-number) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0047-permutations-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
