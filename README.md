@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2325-number-of-ways-to-select-buildings) |
