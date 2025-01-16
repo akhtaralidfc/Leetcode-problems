@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2502-sort-the-people) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2292-counting-words-with-a-given-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
