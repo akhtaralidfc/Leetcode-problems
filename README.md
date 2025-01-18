@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0725-split-linked-list-in-parts](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0273-integer-to-english-words](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
