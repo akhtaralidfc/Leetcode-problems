@@ -1,22 +1,19 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        // int i=0,j=0,n=nums.size();
-        // if(n==1) return 1;
-        // while(j<n){
-        //   while(j<n-1 && nums[j]==nums[j+1]) j++;
-        //   nums[i]=nums[j];
-        //   i++,j++;
-        // }
-        // return i;
-
-
-        int i=0,j=0,n=nums.size();
-        while(i<n && j<n){
-            while(j<n-1 && nums[j]==nums[j+1]) j++;
-            nums[i]=nums[j];
-            i++,j++;
+    int removeDuplicates(vector<int>& arr) {
+        vector<int> ans;
+        set<int> st;
+        for(int i=0;i<arr.size();i++){
+            if(st.find(arr[i])==st.end()){
+                // cout<<arr[i]<<" ";
+                ans.push_back(arr[i]);
+            }
+            st.insert(arr[i]);
         }
-        return i;
+        int numberOfUniqueElements=st.size();
+        for(int i=0;i<numberOfUniqueElements;i++){
+            arr[i]=ans[i];
+        }
+        return numberOfUniqueElements;
     }
 };
