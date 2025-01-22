@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1876-map-of-highest-peak](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1876-map-of-highest-peak](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1876-map-of-highest-peak](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
