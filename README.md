@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1396-count-servers-that-communicate) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
