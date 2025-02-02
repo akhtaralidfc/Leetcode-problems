@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1876-map-of-highest-peak](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1944-truncate-sentence](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/akhtaralidfc/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
